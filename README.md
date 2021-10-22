@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Davi da Silva dos Santos 👋
 
-- 🔭 Hoje trabalho com Front-End e Back-End
-- :books: Estou estudando Typescript/React/Node/JavaScript/HTML/CSS.
-- 📫 Contate-me pelo email: davisllvsnt57@gmail.com
+- 💼 I'm a Developer, who is working with Front-End and Back-End
+- 📚 I'm studying Typescript/React/Node/JavaScript/HTML/CSS.
+- 📫 talk to me by email: davisllvsnt57@gmail.com
 
 <div align="center">
   <a href="https://github.com/davisllv">
