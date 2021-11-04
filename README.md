@@ -1,4 +1,4 @@
-### Olá! Eu sou o Davi da Silva dos Santos 👋
+### Hello! I'm Davi da Silva dos Santos 👋
 
 - 💼 I'm a Developer, who is working with Front-End and Back-End
 - 📚 I'm studying Typescript/React/Node/JavaScript/HTML/CSS.
