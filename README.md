@@ -7,8 +7,8 @@
 
 <div align="center">
   <a display="inline" href="https://github.com/davisllv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisllv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisllv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davisllv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisllv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 <div style="display: inline_block"><br>
