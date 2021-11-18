@@ -2,11 +2,8 @@
 
 
 - 💼 I'm a Developer, who is working with Front-End and Back-End
-<br>
 - 📚 I'm studying Typescript/React/Node/JavaScript/HTML/CSS.
-- <br>
 - 📫 talk to me by email: davisllvsnt57@gmail.com
-- <br>
 
 <div align="center">
   <a display="inline" href="https://github.com/davisllv">
