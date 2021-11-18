@@ -1,5 +1,6 @@
 ### Hello! I'm Davi da Silva dos Santos 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 - 💼 I'm a Developer, who is working with Front-End and Back-End
 - 📚 I'm studying Typescript/React/Node/JavaScript/HTML/CSS.
 - 📫 talk to me by email: davisllvsnt57@gmail.com
