@@ -2,7 +2,7 @@
 
 
 - 💼 I'm a Developer, who is working with Front-End and Back-End
-- 📚 I'm studying Typescript/React/Node/JavaScript/HTML/CSS.
+- 📚 I'm studying Typescript / Reactjs / Nodejs / JavaScript / HTML / CSS.
 - 📫 talk to me by email: davisllvsnt57@gmail.com
 
 <div align="center">
