@@ -1,7 +1,7 @@
 ### Hello! I'm Davi da Silva dos Santos 👋
 
 
-- 💼 I'm a Developer, who is working with Front-End and Back-End
+- 💼 I'm a Full Stack Developer, who is working with Front-End and Back-End
 - 📚 I'm studying Typescript / Reactjs / Nodejs / JavaScript / HTML / CSS.
 - 📫 talk to me by email: davisllvsnt57@gmail.com
 
