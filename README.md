@@ -2,7 +2,7 @@
 
 
 - 💼 I'm a Full Stack Developer, who is working with Front-End and Back-End
-- 📚 I'm studying Typescript / Reactjs / Nodejs / JavaScript / HTML / CSS.
+- 📚 I'm studying Typescript / Reactjs / Nodejs / JavaScript / HTML / CSS / SQL.
 - 📫 Contact me davisllvsnt57@gmail.com
 
 <div align="center">
